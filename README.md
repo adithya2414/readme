@@ -103,22 +103,9 @@ Badges / Icons:
 
 ---
 
-## GitHub Stats (live)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=adithya2414&show_icons=true&theme=tokyonight&layout=compact)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adithya2414&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adithya2414&theme=tokyonight)
-
----
 
 ## Contact
 - Email: adithya2414@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/lalitha-adithya-n-0b99b326b/  
 - GitHub: https://github.com/adithya2414
 
----
-
-If you'd like any of the following, tell me and I’ll update the README:
-- Add direct repo links, demo GIFs, or screenshots for each project.  
-- Replace the avatar with a specific image URL you provide.  
-- Add certificates, awards, or publication links (I’ll include badges).  
-- Tweak tone or layout (compact CV-like or visual/badge-heavy).
